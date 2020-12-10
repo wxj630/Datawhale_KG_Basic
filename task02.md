@@ -1,8 +1,8 @@
 # Datawhale 知识图谱组队学习 之 Task 2 Neo4j图数据库导入数据
 
 > 文章编写人：芙蕖<br/>
-> github 地址：
-> 特别鸣谢：[中国科学院软件研究所 刘焕勇 Github QASystemOnMedicalKG](https://github.com/zhihao-chen/QASystemOnMedicalKG)
+> github 地址：<br/>
+> 特别鸣谢：[QASystemOnMedicalGraph](https://github.com/zhihao-chen/QASystemOnMedicalGraph)
 
 ## 目录
 
@@ -452,5 +452,5 @@ Neo4j因其嵌入式、高性能、轻量级等优势，越来越受到关注。
 
 ## 参考资料 
 
-1. [中国科学院软件研究所 刘焕勇 Github QASystemOnMedicalKG](https://github.com/zhihao-chen/QASystemOnMedicalKG)
+1. [QASystemOnMedicalGraph](https://github.com/zhihao-chen/QASystemOnMedicalGraph)
 2. [韩浩明.图数据库系统研究综述[J].计算机光盘软件与应用,2014,17(23):14-15.](http://gb.oversea.cnki.net/KCMS/detail/detail.aspx?filename=GPRJ201423018&dbcode=CJFD&dbname=CJFD2014) 
