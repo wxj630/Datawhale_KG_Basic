@@ -1,10 +1,8 @@
-# Datawhale 组队学习 之 Task 1 知识图谱介绍
+# [Datawhale 知识图谱组队学习 之 Task 1 知识图谱介绍
 
 ## 目录
 
-
-
-- [Datawhale 组队学习 之 Task 1 知识图谱介绍](#datawhale-组队学习-之-task-1-知识图谱介绍)
+- [[Datawhale 知识图谱组队学习 之 Task 1 知识图谱介绍](#datawhale-知识图谱组队学习-之-task-1-知识图谱介绍)
   - [目录](#目录)
   - [一、知识图谱简介](#一知识图谱简介)
     - [1.1 引言](#11-引言)
