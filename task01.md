@@ -1,5 +1,8 @@
 # Datawhale 知识图谱组队学习 之 Task 1 知识图谱介绍
 
+> 文章编写人：吴晓均<br/>
+> github 地址：
+
 ## 目录
 
 - [Datawhale 知识图谱组队学习 之 Task 1 知识图谱介绍](#datawhale-知识图谱组队学习-之-task-1-知识图谱介绍)

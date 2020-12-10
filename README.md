@@ -3,5 +3,6 @@
 ## 内容介绍
 
 - [Datawhale 知识图谱组队学习 之 Task 1 知识图谱介绍](task01.md)
+- [ Datawhale 知识图谱组队学习 之 Task 2 Neo4j图数据库导入数据](task02.md)
 
 
